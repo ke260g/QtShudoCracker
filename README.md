@@ -1,6 +1,6 @@
 # QtShudoCracker
 Crack Shudo in Stupid Recursive Algorithm, written in Qt5
-![Standard Type](screenshots/No.1\ Standard\ Type.png)
+![Standard Type](screenshots/No.1 Standard Type.png?raw=true "")
 
 ### Brief
 + After finished, not sure to succeeded
