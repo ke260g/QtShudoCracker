@@ -10,13 +10,13 @@ Crack Shudo in Stupid Recursive Algorithm, written in Qt5
 ![Standard Type](screenshots/No.1-Standard-Type.png?raw=true "")
 
 ### Another 4 Types
-+ X Type
++ X Type</br>
 ![X Type](screenshots/No.2-X-Type.png?raw=true "")
-+ Color Type
++ Color Type</br>
 ![Color Type](screenshots/No.3-Color-Type.png?raw=true "")
-+ Hyper Type
++ Hyper Type</br>
 ![Hyper Type](screenshots/No.4-Hyper-Type.png?raw=true "")
-+ Percent Type
++ Percent Type</br>
 ![Percent Type](screenshots/No.5-Percent-Type.png?raw=true "")
 
 ### Development Details
